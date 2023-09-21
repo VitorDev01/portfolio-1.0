@@ -154,6 +154,7 @@ background: linear-gradient(to right, #061161, #780206); /* W3C, IE 10+/ Edge, F
      font-family: 'Poppins', sans-serif;
      font-size: 1.02rem;
      width: 80%;
+     max-width: 200px
      padding: .6rem 1rem;
      background-color: transparent;
      border: 1px solid #fff;
