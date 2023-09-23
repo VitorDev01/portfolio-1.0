@@ -139,6 +139,11 @@
      border-radius: 7px;
     }
 
+    .container-glass .img1 {
+     width: 100%;
+     border-radius: 50%;
+     }
+
     .container-glass .text {
      word-spacing: 0px;
      font-size: 18px;
