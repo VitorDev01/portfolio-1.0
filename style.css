@@ -181,12 +181,6 @@
      background-color: rgba(0, 0, 0, .2);;
     }
 
-    i {
-     color: white;
-     height: 15px;
-     width: 15px;
-    }
-
    @media (max-width: 992px) {
     .header {
         padding: 1.3rem 5%;
@@ -269,7 +263,7 @@
         text-align: center;
         display: inline;
         margin: 1px;
-        margin-left: 50px;
+        margin-left: 45px;
         font-family: 'Poppins', sans-serif;
         font-size: 1.02rem;
         width: 30%;
