@@ -155,7 +155,8 @@
      }
 
     .container-glass .text {
-    letter-spacing: 1px;
+     word-spacing: 0px;
+     letter-spacing: 1px;
      font-size: 18px;
      color: #fff;
      margin: 1px;
