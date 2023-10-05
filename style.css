@@ -207,6 +207,12 @@ h1 {
   color: #fff;
 
  }
+
+ a {
+  text-decoration: none;
+  color: black;
+ }
+
  /*estilo dos cards*/
  .card-wrap{
      display: inline-block;
